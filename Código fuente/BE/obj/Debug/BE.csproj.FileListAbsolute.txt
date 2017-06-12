@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\SILIE_WEB\BE\bin\Debug\BE.dll
+C:\Users\Administrador\Desktop\SILIE_WEB\BE\bin\Debug\BE.pdb
+C:\Users\Administrador\Desktop\SILIE_WEB\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\SILIE_WEB\BE\obj\Debug\BE.dll
+C:\Users\Administrador\Desktop\SILIE_WEB\BE\obj\Debug\BE.pdb
+C:\Users\Administrador\Desktop\JOHANO\SILIE_WEB\BE\bin\Debug\BE.dll
+C:\Users\Administrador\Desktop\JOHANO\SILIE_WEB\BE\bin\Debug\BE.pdb
+C:\Users\Administrador\Desktop\JOHANO\SILIE_WEB\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\JOHANO\SILIE_WEB\BE\obj\Debug\BE.dll
+C:\Users\Administrador\Desktop\JOHANO\SILIE_WEB\BE\obj\Debug\BE.pdb
+C:\SILIE\SILIE_WEB\BE\bin\Debug\BE.dll
+C:\SILIE\SILIE_WEB\BE\bin\Debug\BE.pdb
+C:\SILIE\SILIE_WEB\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\SILIE\SILIE_WEB\BE\obj\Debug\BE.dll
+C:\SILIE\SILIE_WEB\BE\obj\Debug\BE.pdb
