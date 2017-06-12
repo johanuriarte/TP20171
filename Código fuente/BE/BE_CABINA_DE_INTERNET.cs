@@ -21,5 +21,7 @@ namespace BE
         public string descripcion { get; set; }
 
         public string website { get; set; }
+        
+        public string nuevoDato { get; set; }
     }
 }
